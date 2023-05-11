@@ -96,10 +96,11 @@
       "settings": {
         "main": true,
         "title": "Home | Living Quarters | Indian Handloom Products",
-        "meta_descr": "",
+        "meta_descr": "Manufacturer, Wholesaler, Retailer of Indian Handloom Products. Deals in Bedsheets, Carpets, Indian Furniture, Antiques, Women Traditional Clothes and more...",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202023-05-11%20at%2015.34.58-1600x600.jpg"
       },
       "components": [
         {
